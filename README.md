@@ -11,6 +11,12 @@
 
 ## Запуск проекта
 
+### `git clone git@github.com:sweetereater/currencyConverter.git`
+
+### `cd currencyConverter`
+
+### `npm i`
+
 ### `npm start`
 
 
